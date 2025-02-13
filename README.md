@@ -1,1 +1,1 @@
-# kodo-virtuozai-2025
+Simple Lithuania Weather forecast app
